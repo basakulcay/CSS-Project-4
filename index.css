@@ -10,7 +10,7 @@ h1 {font-family: cursive; font-size: 40px;}
 
 #charac ul {list-style-type: none; font-size: 20px;}
 
-.michael {margin-bottom: 20px; background-image: url('../images/michael.png');background-size: cover; height: 50px; width: 50px; border-radius:50%;display:inline-block;vertical-align: middle; padding:0px 0px}
+.michael {margin-bottom: 20px; background-image: url('michael.png');background-size: cover; height: 50px; width: 50px; border-radius:50%;display:inline-block;vertical-align: middle; padding:0px 0px}
 
 .jim {margin-bottom: 20px; background-image: url('../images/jim.jpg');background-size: cover; height: 50px; width: 50px; border-radius:50%;display:inline-block;vertical-align: middle; padding:0px 0px}
 
