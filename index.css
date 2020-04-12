@@ -12,11 +12,11 @@ h1 {font-family: cursive; font-size: 40px;}
 
 .michael {margin-bottom: 20px; background-image: url('michael.png');background-size: cover; height: 50px; width: 50px; border-radius:50%;display:inline-block;vertical-align: middle; padding:0px 0px}
 
-.jim {margin-bottom: 20px; background-image: url('../images/jim.jpg');background-size: cover; height: 50px; width: 50px; border-radius:50%;display:inline-block;vertical-align: middle; padding:0px 0px}
+.jim {margin-bottom: 20px; background-image: url('jim.jpg');background-size: cover; height: 50px; width: 50px; border-radius:50%;display:inline-block;vertical-align: middle; padding:0px 0px}
 
-.pam {margin-bottom: 20px; background-image: url('../images/pam.jpg');background-size: cover; height: 50px; width: 50px; border-radius:50%;display:inline-block;vertical-align: middle; padding:0px 0px}
+.pam {margin-bottom: 20px; background-image: url('pam.jpg');background-size: cover; height: 50px; width: 50px; border-radius:50%;display:inline-block;vertical-align: middle; padding:0px 0px}
 
-.dwight {margin-bottom: 20px; background-image: url('../images/dwight.jpg');background-size: cover; height: 50px; width: 50px; border-radius:50%;display:inline-block;vertical-align: middle; padding:0px 0px}
+.dwight {margin-bottom: 20px; background-image: url('dwight.jpg');background-size: cover; height: 50px; width: 50px; border-radius:50%;display:inline-block;vertical-align: middle; padding:0px 0px}
 
 .navbar a {background-color: white; text-decoration: none; color: black; font-size: 14px; font-weight: bold; font-family: sans-serif;}
 
